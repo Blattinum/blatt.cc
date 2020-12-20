@@ -15,11 +15,21 @@
 
     <div class="profile">
         <div class="social">
-            <button class="btn"><i class="fab fa-facebook-f"></i>&nbsp;facebook</button>
-            <button class="btn"><i class="fab fa-twitter"></i>&nbsp;twitter</button>
+            <button class="fb btn" onclick="openFB()"><i class="fab fa-facebook-f"></i>&nbsp;facebook</button>
+            <button class="twtr btn" onclick="openTWTR()"><i class="fab fa-twitter"></i>&nbsp;twitter</button>
             <button class="btn"><i class="fa fa-envelope"></i>&nbsp;email</button>
         </div>
     </div>
+
+    <script>
+        function openFB() {
+            window.open("http://fb.cobl.co");
+        }
+
+        function openTWTR() {
+            window.open("http://twtr.cobl.co");
+        }
+    </script>
 
 </body>
 

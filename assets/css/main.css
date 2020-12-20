@@ -43,3 +43,14 @@
         color: #f5f5f5;
         cursor: pointer;
         box-shadow: 3px 3px 3px 1px #ccc;
+    }
+
+    .fb:hover {
+        background-color: #3b5998;
+        color: #f5f5f5;
+    }
+
+    .twtr:hover {
+        background-color: #1DA1F2;
+        color: #f5f5f5;
+    }
