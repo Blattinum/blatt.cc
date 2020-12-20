@@ -57,12 +57,22 @@
         box-shadow: 1.5px 1.5px 1.5px 0.5px #ccc;
     }
 
-    .fb:hover, .fb:active {
+    .fb:hover {
         background-color: #3b5998;
         color: #f5f5f5;
     }
 
-    .twtr:hover, .twtr:active {
+    .twtr:hover {
+        background-color: #1DA1F2;
+        color: #f5f5f5;
+    }
+
+    .fb:active {
+        background-color: #3b5998;
+        color: #f5f5f5;
+    }
+
+    .twtr:active {
         background-color: #1DA1F2;
         color: #f5f5f5;
     }
