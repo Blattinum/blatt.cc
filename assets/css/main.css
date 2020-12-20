@@ -21,6 +21,7 @@
         border-radius: 1rem;
         border: 0.05rem solid lightgrey;
         box-shadow: 1.5px 1.5px 1.5px 0.5px #ccc;
+        padding: 2rem;
     }
 
     .social {
@@ -60,5 +61,4 @@
         width: 20rem;
         border-radius: 100rem;
         box-shadow: 3px 3px 3px 1px #ccc;
-        margin: 1rem;
     }
