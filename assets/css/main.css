@@ -24,7 +24,7 @@
         border-radius: 1rem;
         border: 0.05rem solid lightgrey;
         box-shadow: 1.5px 1.5px 1.5px 0.5px #ccc;
-        padding: 2rem;
+        padding: 7rem;
     }
 
     .social {
@@ -84,7 +84,7 @@
     }
 
     .profile img {
-        width: 20rem;
+        width: 17rem;
         border-radius: 100rem;
         box-shadow: 3px 3px 3px 1px #ccc;
     }
