@@ -81,16 +81,10 @@
         color: #f5f5f5;
     }
 
-    .ph:hover {
-        background-color: #FF3CAC;
-        background-image: linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%);
+    .ph:hover, .ph:active {
+        background-color: #fa2bff;
+        background-image: linear-gradient(147deg, #fa2bff 0%, #8622b9 74%);        
         color: #f5f5f5;        
-    }
-
-    .ph:active {
-        background-color: #FF3CAC;
-        background-image: linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%);
-        color: #f5f5f5;
     }
 
     .profile img {
