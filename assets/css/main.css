@@ -20,6 +20,7 @@
     .profile {
         border-radius: 1rem;
         border: 0.05rem solid lightgrey;
+        box-shadow: 1.5px 1.5px 1.5px 0.5px #ccc;
     }
 
     .social {
@@ -42,7 +43,7 @@
         background-color: slategrey;
         color: #f5f5f5;
         cursor: pointer;
-        box-shadow: 3px 3px 3px 1px #ccc;
+        box-shadow: 1.5px 1.5px 1.5px 0.5px #ccc;
     }
 
     .fb:hover {
