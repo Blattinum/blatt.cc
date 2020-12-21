@@ -40,7 +40,7 @@
     }
 
     .profile hr {
-        border: rgb(214, 214, 214) 0.01rem solid;
+        border: #e6e6e6 0.009rem solid;
     }
 
     .social {
@@ -114,6 +114,10 @@
 
         .profile img {
             box-shadow: none;
+        }
+
+        .profile hr {
+            border: #637c79 0.009rem solid;
         }
 
         .social {
