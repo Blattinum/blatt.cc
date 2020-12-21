@@ -68,7 +68,7 @@
         color: #f5f5f5;
         cursor: pointer;
         text-shadow: -0.5px 0.5px 0 #2b2b2b, 0.5px 0.5px 0 #2b2b2b, 0.5px -0.5px 0 #2b2b2b, -0.5px -0.5px 0 #2b2b2b;
-        box-shadow: 1.5px 1.5px 1.5px 0.5px #ccc;
+        box-shadow: 0.75px 0.75px 0.75px 0.25px #586e69;
     }
 
     .fb:hover, .fb:active {
