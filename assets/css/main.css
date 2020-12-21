@@ -102,7 +102,7 @@
         box-shadow: 1.5px 1.5px 1.5px 0.5px #586e69;
     }
 
-    @media only screen and (max-width: 720px) {
+    @media only screen and (max-width: 960px) {
 
         .profile {
             background: transparent;
@@ -128,28 +128,4 @@
 
     }
 
-    @media only screen and (min-width: 2000px) {
-
-        .profile {
-            background: transparent;
-            border: none;
-            box-shadow: none;
-            margin: 0;
-            padding: 2rem 5rem 2rem 5rem;
-        }
-
-        .profile img {
-            box-shadow: none;
-        }
-
-        .profile hr {
-            border: #637c79 0.009rem solid;
-        }
-
-        .social {
-            background-color: #eee;
-            border-radius: 1rem;
-            border: 0.05rem solid lightgrey;
-        }
-
-    }
+    
