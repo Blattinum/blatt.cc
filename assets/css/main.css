@@ -120,7 +120,7 @@
         }
 
         .social {
-            background-color: #eee;
+            background-color: rgb(221, 221, 221);
             border-radius: 1rem;
             border: 0.05rem solid lightgrey;
         }
