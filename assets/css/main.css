@@ -20,7 +20,6 @@
 
     .profile {
         background-color: #f5f5f5;
-        /*width: calc(100% - 100rem);*/
         border-radius: 1rem;
         border: 0.05rem solid lightgrey;
         box-shadow: 1.5px 1.5px 1.5px 0.5px #ccc;
@@ -49,9 +48,9 @@
         padding: 1rem;
         font-size: 2.2rem;
         background-color: #f5f5f5;
-        background-image: url('../img/brushed-metal.svg');
+        /*background-image: url('../img/brushed-metal.svg');
         background-repeat: no-repeat;
-        background-size: cover;
+        background-size: cover;*/
         color: #2b2b2b;
         border-radius: 1rem;
         border: 0.05rem solid rgb(160, 140, 140);
