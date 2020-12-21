@@ -8,8 +8,8 @@
 
     body {
         /*background-color: #e2e2e2;*/
-        background-color: #AFBCB3;
-        background-image: url('../img/higbee.jpg');
+        background-color: #83A39E;
+        /*background-image: url('../img/higbee.jpg');*/
         background-repeat: no-repeat;
         background-size: cover;
         color: #2b2b2b;
@@ -26,7 +26,8 @@
         background-color: #f5f5f5;
         border-radius: 1rem;
         border: 0.05rem solid lightgrey;
-        box-shadow: 1.5px 1.5px 1.5px 0.5px #ccc;
+        /*box-shadow: 1.5px 1.5px 1.5px 0.5px #ccc;*/
+        box-shadow: 1.5px 1.5px 1.5px 0.5px #586e69;
         margin: 1rem;
         padding: 4rem 10rem 4rem 10rem;
         transition: 0.5s ease all;
@@ -92,7 +93,7 @@
         width: 25rem;
         border: #eee 1rem solid;
         border-radius: 100rem;
-        box-shadow: 3px 3px 3px 1px #ccc;
+        box-shadow: 1.5px 1.5px 1.5px 0.5px #586e69;
     }
 
     @media only screen and (max-width: 720px) {
