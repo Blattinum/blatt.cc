@@ -110,7 +110,7 @@
         }
 
         .social {
-            background-color: #eee;
+            background: transparent;
             border-radius: 1rem;
             border: 0.05rem solid lightgrey;
         }
