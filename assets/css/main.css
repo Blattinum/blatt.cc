@@ -35,7 +35,7 @@
         box-shadow: 1.5px 1.5px 1.5px 0.5px #586e69;
         margin: 1rem;
         padding: 4rem 10rem 4rem 10rem;
-        transition: 0.5s ease-out all;
+        transition: 0.5s ease all;
     }
 
     .profile hr {
