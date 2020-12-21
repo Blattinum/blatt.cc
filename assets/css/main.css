@@ -98,7 +98,16 @@
     @media only screen and (max-width: 720px) {
 
         .profile {
+            background: transparent;
+            border: none;
+            box-shadow: none;
+            margin: 0;
             padding: 2rem 5rem 2rem 5rem;
+        }
+
+        .social {
+            border-radius: 1rem;
+            border: 0.05rem solid lightgrey;
         }
 
     }
