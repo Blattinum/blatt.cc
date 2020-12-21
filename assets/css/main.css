@@ -49,14 +49,18 @@
         padding: 1rem;
         font-size: 2.2rem;
         background-color: #f5f5f5;
+        background-image: url('../img/brushed-metal.svg');
+        background-repeat: no-repeat;
+        background-size: cover;
         color: #2b2b2b;
         border-radius: 1rem;
-        border: 0.05rem solid lightgrey;
+        border: 0.05rem solid rgb(160, 140, 140);
         transition: 0.25s ease all;
     }
 
     .btn:hover, .btn:active {
         background-color: slategrey;
+        background-image: none;
         color: #f5f5f5;
         cursor: pointer;
         text-shadow: -0.5px 0.5px 0 #2b2b2b, 0.5px 0.5px 0 #2b2b2b, 0.5px -0.5px 0 #2b2b2b, -0.5px -0.5px 0 #2b2b2b;
