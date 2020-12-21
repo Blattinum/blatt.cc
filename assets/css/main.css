@@ -12,7 +12,6 @@
         /*background-color: #e2e2e2;*/
         background-color: #83A39E;
         background-image: linear-gradient(160deg, #83a39e 0%, #3d4b49 100%);
-
         /*background-image: url('../img/higbee.jpg');*/
         background-repeat: no-repeat;
         background-size: cover;
@@ -36,7 +35,7 @@
         box-shadow: 1.5px 1.5px 1.5px 0.5px #586e69;
         margin: 1rem;
         padding: 4rem 10rem 4rem 10rem;
-        transition: 1s ease all;
+        transition: 1s ease-in-out all;
     }
 
     .profile hr {
