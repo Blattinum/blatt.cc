@@ -2,7 +2,7 @@
  * @Author: Collin Blatt 
  * @Date: 2020-12-21 23:46:39 
  * @Last Modified by: blattinum
- * @Last Modified time: 2020-12-21 23:50:26
+ * @Last Modified time: 2020-12-21 23:51:06
  */
     :root {
 
@@ -118,7 +118,6 @@
         }
 
         .profile img {
-            border: dashed;
             border-color: rgb(221, 221, 221);
         }
 
