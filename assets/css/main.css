@@ -2,7 +2,7 @@
  * @Author: Collin Blatt 
  * @Date: 2020-12-21 23:46:39 
  * @Last Modified by: blattinum
- * @Last Modified time: 2020-12-21 23:51:06
+ * @Last Modified time: 2020-12-21 23:53:21
  */
     :root {
 
@@ -119,6 +119,7 @@
 
         .profile img {
             border-color: rgb(221, 221, 221);
+            box-shadow: 3px 3px 3px 1px #586e69;
         }
 
         .profile hr {
