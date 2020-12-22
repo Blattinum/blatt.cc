@@ -1,0 +1,1 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a6832016-d702-49c7-a164-91c9224ae405/deploy-status)](https://app.netlify.com/sites/condescending-roentgen-97d567/deploys)
