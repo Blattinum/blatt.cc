@@ -2,7 +2,7 @@
  * @Author: Collin Blatt 
  * @Date: 2020-12-21 23:46:39 
  * @Last Modified by: blattinum
- * @Last Modified time: 2020-12-22 00:13:18
+ * @Last Modified time: 2020-12-22 00:14:27
  */
     :root {
 
@@ -31,7 +31,7 @@
         justify-content: center;
         align-items: center;
         flex-direction: column;
-        /*overflow-y: hidden;*/
+        overflow-y: scroll;
     }
 
     .profile {
